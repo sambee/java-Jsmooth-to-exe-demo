@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<jardesc>
+    <jar path="java-Jsmooth-to-exe-demo/lib/jsmooth-demo.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/java-Jsmooth-to-exe-demo/java-Jsmooth-to-exe-demo.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=java-Jsmooth-to-exe-demo/src&lt;com.hhf.jsmooth.demo.swing{Main.java[Main" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=java-Jsmooth-to-exe-demo/src"/>
+    </selectedElements>
+</jardesc>
